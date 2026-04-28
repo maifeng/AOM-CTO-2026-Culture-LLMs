@@ -1,4 +1,4 @@
-# **Dissecting Corporate Culture with Large Language Models**
+ # **Dissecting Corporate Culture with Large Language Models**
 
 ## Feng Mai (University of Iowa) 
 
@@ -37,7 +37,7 @@ The workshop walks through these papers in order:
 
 1. **Li, Kai, Feng Mai, Rui Shen, and Xinyan Yan (2021).** *Measuring Corporate Culture Using Machine Learning.* Review of Financial Studies 34(7): 3265-3315. [https://doi.org/10.1093/rfs/hhaa079](https://doi.org/10.1093/rfs/hhaa079)
 
-2. **Yan, Bei, Feng Mai, Chaojiang Wu, Rong Chen, and Xiaolin Li (2024).** *A Computational Framework for Understanding Firm Communication During Disasters.* Information Systems Research 35(2): 590-608. [https://doi.org/10.1287/isre.2022.0128](https://doi.org/10.1287/isre.2022.0128)
+2. **Yan, Bei, Feng Mai, Chaojiang Wu, Rui Chen, and Xiaolin Li (2024).** *A Computational Framework for Understanding Firm Communication During Disasters.* Information Systems Research 35(2): 590-608. [https://doi.org/10.1287/isre.2022.0128](https://doi.org/10.1287/isre.2022.0128)
 
 3. **Li, Kai, Feng Mai, Rui Shen, Chelsea Yang, and Tengfei Zhang (2026).** *Dissecting Corporate Culture Using Generative AI.* Review of Financial Studies 39(1): 253-296. [https://doi.org/10.1093/rfs/hhaf081](https://doi.org/10.1093/rfs/hhaf081)
 
