@@ -1,9 +1,9 @@
-# AOM CTO 2026 · Computational Methods Workshop
+# **Dissecting Corporate Culture with Large Language Models**
 
-## **Dissecting Corporate Culture with Large Language Models**
+## Feng Mai (University of Iowa) 
 
+### AOM CTO 2026 · Computational Methods Workshop
 
-### Feng Mai (University of Iowa) 
 
 feng-mai@uiowa.edu
 
