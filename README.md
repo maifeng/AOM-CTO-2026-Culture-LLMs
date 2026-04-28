@@ -23,6 +23,8 @@ The conceptual half (Part 1) walks through three generations of text-as-data for
 
 ## Part 2: Live Colab notebooks
 
+If you have not used Google Colab before, see [this link for a short tutorial](https://www.marqo.ai/blog/getting-started-with-google-colab-a-beginners-guide).
+
 | Package | What it does | Paper | Open in Colab |
 |---|---|---|---|
 | [`lmsy_w2v_rfs`](https://github.com/maifeng/lmsy_w2v_rfs) | Trains word2vec on your own corpus, then expands a handful of seed words (*integrity*, *teamwork*, ...) into a domain-specific dictionary, and scores documents by weighted term frequency. | Li, Mai, Shen, Yan (2021), *RFS* | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maifeng/lmsy_w2v_rfs/blob/main/notebooks/01_quickstart_colab.ipynb) |
